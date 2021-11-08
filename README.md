@@ -1,5 +1,10 @@
 # task_tracker
 
+## Screenshots
+
+![index page](https://github.com/YRlp98/task_tracker/blob/master/src/assets/screenshots/ss1.png)
+![index page](https://github.com/YRlp98/task_tracker/blob/master/src/assets/screenshots/ss1.png)
+
 ## Project setup
 ```
 npm install
