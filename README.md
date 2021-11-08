@@ -5,6 +5,11 @@
 npm install
 ```
 
+### Before running the serve, run json-server
+```
+npm run backend
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
